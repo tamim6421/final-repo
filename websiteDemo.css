@@ -1,0 +1,154 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.logoContainer{
+    background-color: rgb(69, 66, 66);
+    padding: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logophoto{
+    width: 150px;
+}
+.menu {
+    display: flex;
+    list-style: none;
+}
+.lli{
+    margin-right: 10px;
+    padding: 10px;
+
+}
+.lli:hover{
+    color: tomato;
+    cursor: pointer;
+}
+
+.banerimg{
+    width: 300px;
+}
+.banercontainer{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 100vh;
+    border: 2px solid black;
+    background-image: url(background.png),linear-gradient(45deg,#0e0d0d,#191414);
+    color: white;
+}
+.banertitle{
+    font-weight: bold;
+    font-family: arial black;
+    font-size: 40px;
+}
+.banertext{
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.btn{
+    padding: 10px 20px;
+    background-color: tomato;
+    color: white;
+    font-family: arial black;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.aboutContainer{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 100vh;
+    margin-left: 50px;
+   
+}
+.abourus{
+    text-align: center;
+    padding: 10px;
+    font-family: arial black;
+    font-size: 40px;
+    margin: 10px;
+
+}
+.banertitle{
+    font-weight: bold;
+    font-family: arial black;
+    font-size: 40px;
+}
+.banertext{
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+.box{
+    width: 220px;
+    height: 270px;
+    box-shadow: 2px 2px 21px 6px gray;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.boxicon{
+    width: 90px;
+    margin-top: 10px;
+
+}
+.boxbtn{
+    color: black;
+    background-color: gray;
+    margin-top: 8px;
+    padding: 6px;
+    margin-bottom: 5px;
+}
+.boxtitle{
+    padding: 10px;
+    font-family: arial;
+}
+.boxcontant{
+    font-size: 14px;
+}
+.serviceContainer{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+   
+}
+.abourus{
+    color: white;
+}
+.servicerepper{
+    background-color: #1c1b1b;
+}
+
+.footerlogo{
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.footerbox1{
+    width: 200px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+
+}
+.footerpera{
+    letter-spacing: 1px;
+    line-height: 30px;
+    padding: 5px;
+}
+.footercontainer{
+
+    display: flex;
+    justify-content: space-around;
+}
+.contantrepper{
+    background-color: black;
+}
