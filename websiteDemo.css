@@ -130,15 +130,7 @@
     margin-top: 10px;
 
 }
-.footerbox1{
-    width: 200px;
-    height: 250px;
-    background-color: black;
-    color: white;
-    text-align: center;
-    margin-top: 30px;
 
-}
 .footerpera{
     letter-spacing: 1px;
     line-height: 30px;
@@ -152,8 +144,43 @@
 .contantrepper{
     background-color: black;
 }
-.footerbox2{
-    width:250px ;
-    height: 300px;
+
+.footerbox1{
+    width: 200px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
 
 }
+
+.footerbox2{
+    width: 200px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+
+}
+.footerbox3{
+    width: 200px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+
+}
+.footerbox4{
+    width: 200px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+  
